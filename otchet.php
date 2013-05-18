@@ -146,8 +146,7 @@ if (!mysqli_set_charset($conn, "utf8")) {
 mysqli_free_result($result);
 mysqli_close($conn);
 ?>
-</tr>
-</table>
+<a href="https://github.com/paulserikov/careerday/blob/master/otchet.php">Исходный код</a>
 </div>
 </body>
 </html>
